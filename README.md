@@ -12,3 +12,4 @@ Calculates each students average grade
 Assigns a letter grade based on the student average
 identifies the top performing student 
 Counts the number of students with a passing grade
+Video Link: https://www.loom.com/share/b8ad6cd1d4164d639a2acf0ff70a3023
